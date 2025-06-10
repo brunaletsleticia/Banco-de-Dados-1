@@ -1,2 +1,2 @@
 # Banco-de-Dados-1
-## Roteiros feitos para disciplina de Banco de dados 
+## Roteiros realizados na disciplina de Banco de dados 
